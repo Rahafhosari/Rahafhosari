@@ -29,5 +29,3 @@ Skills: HTML / CSS / Python / Git / SQL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahafhosari)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/Rahafhosari)  
-
-![Profile views](https://gpvc.arturio.dev/Rahafhosari)  

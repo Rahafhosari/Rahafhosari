@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 [![Header](https://raw.githubusercontent.com/MartinHeinz/RahafHosari/Rahafhosari/readme_header.png "Header")](https://some-url.dev/)
-### Hi there 👋, my name is Rahaf <img src="https://i.imgur.com/c4vH2QS.gif" width="30px">
+### Hi there 👋, my name is Rahaf <img src="https://i.imgur.com/c4vH2QS.gif" width="200px">
 #### Civil Engineer 'before' | Software Developer 'now'
 ![Civil Engineer 'before' | Software Developer 'now'](https://c4.wallpaperflare.com/wallpaper/920/913/250/low-battery-friendship-minimalism-battery-wallpaper-preview.jpg)
 

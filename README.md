@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Rahaf
 #### Civil Engineer 'before' | Software Developer 'now'
-![Civil Engineer 'before' | Software Developer 'now'](https://c4.wallpaperflare.com/wallpaper/920/913/250/low-battery-friendship-minimalism-battery-wallpaper-preview.jpg)
+<img src="https://c4.wallpaperflare.com/wallpaper/920/913/250/low-battery-friendship-minimalism-battery-wallpaper-preview.jpg" width="300px">
 
 I learned full-stack development in Python, Java and Stack MERN, and ended up doing a career shift.
 

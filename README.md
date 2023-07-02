@@ -23,7 +23,7 @@ I learned full-stack development in Python, Java and Stack MERN, and ended up do
 
 Skills: HTML / CSS / Python / Git / SQL
 
-- 🌱 I’m currently learning PowerShell Scripting 
+- 🌱 I’m currently learning Data Science 
 - ⚡ Fun fact: I never thought I would do good in coding 
 
 
